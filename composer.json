@@ -1,13 +1,13 @@
 {
-    "name": "coream/laraveladmin",
+    "name": "devuser01/laraveladmin",
     "autoload": {
         "psr-4": {
-            "Coream\\Laraveladmin\\": "src/"
+            "Devuser01\\Laraveladmin\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "coream"
+            "name": "laraveladmin"
         }
     ],
     "require": {}
